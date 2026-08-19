@@ -1,8 +1,445 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iCepa",
+          "description": "Apple iOS system-wide VPN based Tor client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43506446,
+            "language": "Swift",
+            "last_commit": "2024-06-02T11:42:40Z",
+            "owner": "iCepa",
+            "repo": "iCepa",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tor.framework",
+          "description": "The easiest way to embed Tor in your iOS application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42680520,
+            "language": "Objective-C",
+            "last_commit": "2026-08-11T15:19:37Z",
+            "owner": "iCepa",
+            "repo": "Tor.framework",
+            "stars": 256
+          }
+        }
+      ],
+      "title": "Apple iOS-based tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TorBot",
+          "description": "Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91573963,
+            "language": "Python",
+            "last_commit": "2026-07-28T23:11:26Z",
+            "owner": "DedSecInside",
+            "repo": "TorBot",
+            "stars": 4635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "setup-tor",
+          "description": "Set up GitHub Actions workflow with a specific version of Tor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 361990812,
+            "language": "TypeScript",
+            "last_commit": "2024-07-29T03:16:48Z",
+            "owner": "tor-actions",
+            "repo": "setup-tor",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Development and research tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "multitor",
+          "description": "Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117168174,
+            "language": "Shell",
+            "last_commit": "2024-11-19T14:06:47Z",
+            "owner": "trimstray",
+            "repo": "multitor",
+            "stars": 1185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tor Controller (for Kubernetes)",
+          "description": "Expose applications deployed in Kubernetes clusters via Tor Onion services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134624403,
+            "language": "Go",
+            "last_commit": "2021-09-26T12:13:33Z",
+            "owner": "kragniz",
+            "repo": "tor-controller",
+            "stars": 534
+          }
+        }
+      ],
+      "title": "End-user tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TorChat",
+          "description": "Decentralized anonymous instant messenger on top of Tor Hidden Services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3360402,
+            "language": "Pascal",
+            "last_commit": "2018-10-22T20:13:23Z",
+            "owner": "prof7bit",
+            "repo": "TorChat",
+            "stars": 1000
+          }
+        }
+      ],
+      "title": "Messaging"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ToRat",
+          "description": "Cross-platform remote administration tool written in Go using Tor as a transport mechanism.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 166540502,
+            "language": "Go",
+            "last_commit": "2023-03-13T08:56:55Z",
+            "owner": "luantak",
+            "repo": "ToRat",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offensive Tor Toolkit",
+          "description": "Series of tools written in Go that simplify the use of Tor for typical exploitation and post-exploitation tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 286546993,
+            "language": "Go",
+            "last_commit": "2021-07-03T00:59:16Z",
+            "owner": "atorrescogollo",
+            "repo": "offensive-tor-toolkit",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dos-over-tor",
+          "description": "Proof of concept denial of service over Tor stress test tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142402445,
+            "language": "Python",
+            "last_commit": "2026-02-23T05:22:04Z",
+            "owner": "skizap",
+            "repo": "dos-over-tor",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oregano",
+          "description": "Python module that runs as a machine-in-the-middle (MITM) accepting Tor client requests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 136593871,
+            "language": "Python",
+            "last_commit": "2020-02-09T06:35:24Z",
+            "owner": "nametoolong",
+            "repo": "oregano",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Offensive tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Enterprise Onion Toolkit",
+          "description": "Tool for assisting in large-scale deployments of HTTP(S) Onion sites as an official Onionspace presence for existing clearnet websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80601058,
+            "language": "Awk",
+            "last_commit": "2024-02-09T02:12:54Z",
+            "owner": "alecmuffett",
+            "repo": "eotk",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnionBalance",
+          "description": "Load-balancing and redundancy for Tor hidden services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 33303420,
+            "language": "Python",
+            "last_commit": "2020-04-06T14:04:42Z",
+            "owner": "DonnchaC",
+            "repo": "onionbalance",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vanguards",
+          "description": "Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99290494,
+            "language": "Python",
+            "last_commit": "2024-07-06T01:04:46Z",
+            "owner": "mikeperry-tor",
+            "repo": "vanguards",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stormy",
+          "description": "Easy creation of Tor Onion services (\"Location-Hidden Services\"), currently under heavy development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17054949,
+            "language": "Python",
+            "last_commit": "2015-06-03T17:29:57Z",
+            "owner": "glamrock",
+            "repo": "Stormy",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Onion service tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ansible-relayor",
+          "description": "An Ansible role for Tor Relay Operators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31433462,
+            "language": "HTML",
+            "last_commit": "2026-06-01T17:54:21Z",
+            "owner": "nusenu",
+            "repo": "ansible-relayor",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tor-relay-bootstrap",
+          "description": "Script to bootstrap a Debian server to be a set-and-forget Tor relay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27289788,
+            "language": "Shell",
+            "last_commit": "2023-09-01T11:14:14Z",
+            "owner": "coldhakca",
+            "repo": "tor-relay-bootstrap",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tor_box",
+          "description": "An all-inclusive Tor configuration for Raspberry Pi, serves as both a relay and personal Tor network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35292127,
+            "language": "Shell",
+            "last_commit": "2018-04-17T20:08:43Z",
+            "owner": "CMoncur",
+            "repo": "tor_box",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "Relay operator tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bine",
+          "description": "Go library for accessing and embedding Tor clients and servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132914667,
+            "language": "Go",
+            "last_commit": "2023-07-28T08:24:22Z",
+            "owner": "cretz",
+            "repo": "bine",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tor.rb",
+          "description": "Ruby library for interacting with the Tor anonymity network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 809972,
+            "language": "Ruby",
+            "last_commit": "2024-07-07T20:39:35Z",
+            "owner": "dryruby",
+            "repo": "tor.rb",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP TorControl",
+          "description": "PHP library to control a Tor server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8382630,
+            "language": "PHP",
+            "last_commit": "2018-08-09T13:01:50Z",
+            "owner": "dunglas",
+            "repo": "php-torcontrol",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Tor controller interfaces"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dnscrypt-proxy",
+          "description": "DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change ( and or similar).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116739828,
+            "language": "Go",
+            "last_commit": "2026-08-17T03:52:51Z",
+            "owner": "DNSCrypt",
+            "repo": "dnscrypt-proxy",
+            "stars": 13582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tun2tor",
+          "description": "Rust library to provide a virtual (userspace tunnel) interface to Tor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43363677,
+            "language": "Rust",
+            "last_commit": "2021-11-14T21:33:30Z",
+            "owner": "iCepa",
+            "repo": "tun2tor",
+            "stars": 106
+          }
+        }
+      ],
+      "title": "Tunneling tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "node-Tor",
+          "description": "Javascript implementation of the Tor (or Tor like) anonymizer project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5514899,
+            "language": "JavaScript",
+            "last_commit": "2022-08-29T20:09:15Z",
+            "owner": "Ayms",
+            "repo": "node-Tor",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haskell-tor",
+          "description": "Haskell implementation of the Tor protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46326802,
+            "language": "Haskell",
+            "last_commit": "2017-11-03T23:50:56Z",
+            "owner": "GaloisInc",
+            "repo": "haskell-tor",
+            "stars": 274
+          }
+        }
+      ],
+      "title": "Tor protocol implementations"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T17:45:31.514Z",
+    "last_updated": "2026-08-19T12:57:30.074Z",
     "original_repository": "ajvb/awesome-tor",
+    "original_repository_id": 46509461,
     "original_repository_sha": "966f679e5c599ad9b7844af03f25968287528092",
     "enhanced_repository": "enhansome/enhansome-tor",
     "enhanced_repository_description": null,
