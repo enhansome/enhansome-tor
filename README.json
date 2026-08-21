@@ -15,7 +15,7 @@
             "last_commit": "2024-06-02T11:42:40Z",
             "owner": "iCepa",
             "repo": "iCepa",
-            "stars": 771
+            "stars": 770
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 91573963,
             "language": "Python",
-            "last_commit": "2026-07-28T23:11:26Z",
+            "last_commit": "2026-08-21T15:58:29Z",
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4650
+            "stars": 4655
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2024-11-19T14:06:47Z",
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1185
+            "stars": 1187
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 116739828,
             "language": "Go",
-            "last_commit": "2026-08-17T03:52:51Z",
+            "last_commit": "2026-08-21T04:19:23Z",
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13589
+            "stars": 13591
           }
         },
         {
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:47:21.527Z",
+    "last_updated": "2026-08-21T17:47:55.761Z",
     "original_repository": "ajvb/awesome-tor",
     "original_repository_id": 46509461,
     "original_repository_sha": "966f679e5c599ad9b7844af03f25968287528092",
