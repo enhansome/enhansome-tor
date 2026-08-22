@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T15:58:29Z",
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4655
+            "stars": 4664
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 116739828,
             "language": "Go",
-            "last_commit": "2026-08-21T04:19:23Z",
+            "last_commit": "2026-08-22T05:44:54Z",
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13591
+            "stars": 13592
           }
         },
         {
@@ -437,7 +437,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:47:55.761Z",
+    "last_updated": "2026-08-22T17:38:08.013Z",
     "original_repository": "ajvb/awesome-tor",
     "original_repository_id": 46509461,
     "original_repository_sha": "966f679e5c599ad9b7844af03f25968287528092",
