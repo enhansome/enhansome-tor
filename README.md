@@ -42,7 +42,7 @@
 # Articles
 
 * [Anonbib](https://www.torproject.org/getinvolved/volunteer.html.en#project-anonbib) - List of important papers in the field of anonymity. It's also a set of scripts to generate the website from Latex (bibtex). If we're missing any important papers, please let us know!
-* [Connecting to an authenticated Onion service](https://github.com/AnarchoTechNYC/meta/wiki/Connecting-to-an-authenticated-Onion-service) ⭐ 513 | 🐛 1 | 🌐 HTML | 📅 2025-08-17 - Guided procedure written for laypeople describing how to configure a Tor client to connect to authenticated Onion services.
+* [Connecting to an authenticated Onion service](https://github.com/AnarchoTechNYC/meta/wiki/Connecting-to-an-authenticated-Onion-service) ⭐ 512 | 🐛 1 | 🌐 HTML | 📅 2025-08-17 - Guided procedure written for laypeople describing how to configure a Tor client to connect to authenticated Onion services.
 * [Scaling Tor hidden services](https://www.benthamsgaze.org/2015/11/17/scaling-tor-hidden-services) - Article on scaling Onion services.
 
 # Bridge tools
@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,664 | 🐛 9 | 🌐 Python | 📅 2026-08-21 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,679 | 🐛 9 | 🌐 Python | 📅 2026-08-21 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -77,7 +77,7 @@
 
 # End-user tools
 
-* [multitor](https://github.com/trimstray/multitor) ⭐ 1,187 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
+* [multitor](https://github.com/trimstray/multitor) ⭐ 1,188 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
 * [Tor Controller (for Kubernetes)](https://github.com/kragniz/tor-controller) ⭐ 534 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Expose applications deployed in Kubernetes clusters via Tor Onion services.
 * [GetTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-gettor) - E-mail autoresponder providing Tor's packages over SMTP. This has been relatively unchanged for quite a while.
 * [Ooni Probe](https://www.torproject.org/getinvolved/volunteer.html.en#project-ooni) - Censorship scanner, checking your local connection for blocked or modified content.
@@ -152,7 +152,7 @@
 
 # Tunneling tools
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,592 | 🐛 5 | 🌐 Go | 📅 2026-08-22 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,596 | 🐛 5 | 🌐 Go | 📅 2026-08-22 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 * [tun2tor](https://github.com/iCepa/tun2tor) ⭐ 106 | 🐛 7 | 🌐 Rust | 📅 2021-11-14 - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 * [tor\_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server.
 * [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
@@ -172,7 +172,7 @@
 # Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,874 | 🐛 459 | 🌐 Python | 📅 2026-08-22 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,875 | 🐛 459 | 🌐 Python | 📅 2026-08-23 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 # License
 
@@ -182,4 +182,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
