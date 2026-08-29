@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS system-wide VPN based Tor client",
+            "homepage": null,
             "id": 43506446,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-06-02T11:42:40Z",
+            "open_issues": 1,
             "owner": "iCepa",
             "repo": "iCepa",
-            "stars": 770
+            "stars": 770,
+            "topics": [
+              "apple",
+              "bridges-traffic",
+              "icepa",
+              "ios",
+              "ios-app",
+              "ios-extension",
+              "rust",
+              "rustup",
+              "swift",
+              "swift-3",
+              "tor",
+              "vpn",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -26,12 +45,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tor framework for the iCepa project",
+            "homepage": null,
             "id": 42680520,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T15:19:37Z",
+            "open_issues": 7,
             "owner": "iCepa",
             "repo": "Tor.framework",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -48,12 +72,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark Web OSINT Tool",
+            "homepage": null,
             "id": 91573963,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T00:47:17Z",
+            "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4736
+            "stars": 4738,
+            "topics": [
+              "algorithm",
+              "crawler",
+              "dark-web",
+              "dedsec-inside",
+              "deepweb",
+              "go",
+              "hacking",
+              "hacktoberfest",
+              "osint",
+              "projects",
+              "psnappz",
+              "python",
+              "python-web-crawler",
+              "python3",
+              "security",
+              "security-tools",
+              "spider",
+              "tor",
+              "tor-network",
+              "torbot"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -64,12 +114,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up your GitHub Actions workflow with a specific version of Tor",
+            "homepage": null,
             "id": 361990812,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-29T03:16:48Z",
+            "open_issues": 7,
             "owner": "tor-actions",
             "repo": "setup-tor",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "actions",
+              "github-actions",
+              "setup",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -86,12 +146,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create multiple TOR instances with a load-balancing.",
+            "homepage": null,
             "id": 117168174,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-19T14:06:47Z",
+            "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1189
+            "stars": 1189,
+            "topics": [
+              "balance",
+              "circuit",
+              "communication",
+              "haproxy",
+              "http-proxy",
+              "identity",
+              "instances",
+              "load-balancer",
+              "multi-tor",
+              "multitor",
+              "onion",
+              "polipo",
+              "privoxy",
+              "proxy",
+              "socket",
+              "socks-proxy",
+              "tor",
+              "tor-network",
+              "tor-proxy",
+              "traffic"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -102,12 +188,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Tor onion services on Kubernetes",
+            "homepage": null,
             "id": 134624403,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-26T12:13:33Z",
+            "open_issues": 10,
             "owner": "kragniz",
             "repo": "tor-controller",
-            "stars": 533
+            "stars": 533,
+            "topics": [
+              "kubernetes",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -124,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized anonymous instant messenger on top of Tor Hidden Services",
+            "homepage": null,
             "id": 3360402,
             "language": "Pascal",
+            "license": null,
             "last_commit": "2018-10-22T20:13:23Z",
+            "open_issues": 68,
             "owner": "prof7bit",
             "repo": "TorChat",
-            "stars": 1000
+            "stars": 1000,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -146,12 +245,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication",
+            "homepage": "https://lu4p.github.io/ToRat",
             "id": 166540502,
             "language": "Go",
+            "license": "Unlicense",
             "last_commit": "2023-03-13T08:56:55Z",
+            "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1030
+            "stars": 1030,
+            "topics": [
+              "command-and-control",
+              "cross-platform",
+              "golang",
+              "keylogger",
+              "linux",
+              "payload",
+              "persistence",
+              "post-exploitation",
+              "privilege-escalation",
+              "rat",
+              "remote-admin-tool",
+              "reverse-shell",
+              "reverse-shells",
+              "rpc",
+              "shell-reverse",
+              "tor",
+              "transport",
+              "uac-bypass",
+              "uacbypass",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -162,12 +287,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bind/Reverse Shells, SOCKS, etc over Tor in Golang",
+            "homepage": "https://atorrescogollo.gitbook.io/offensive-tor-toolkit/",
             "id": 286546993,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-03T00:59:16Z",
+            "open_issues": 1,
             "owner": "atorrescogollo",
             "repo": "offensive-tor-toolkit",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "bind-shell",
+              "ethical-hacking",
+              "hidden-services",
+              "reverse-shell",
+              "socks5",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -178,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof of concept denial of service over TOR stress test tool",
+            "homepage": null,
             "id": 142402445,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-23T05:22:04Z",
+            "open_issues": 0,
             "owner": "skizap",
             "repo": "dos-over-tor",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -194,12 +336,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Man-in-the-middle against Tor bridges",
+            "homepage": null,
             "id": 136593871,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-02-09T06:35:24Z",
+            "open_issues": 0,
             "owner": "nametoolong",
             "repo": "oregano",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "anticensorship",
+              "censorship-circumvention",
+              "man-in-the-middle",
+              "onion",
+              "tor",
+              "tor-network",
+              "traffic-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -216,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise Onion Toolkit",
+            "homepage": null,
             "id": 80601058,
             "language": "Awk",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-09T02:12:54Z",
+            "open_issues": 19,
             "owner": "alecmuffett",
             "repo": "eotk",
-            "stars": 789
+            "stars": 789,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -232,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OnionBalance provides load-balancing and redundancy for Tor hidden services",
+            "homepage": "https://onionbalance.readthedocs.org/",
             "id": 33303420,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-06T14:04:42Z",
+            "open_issues": 20,
             "owner": "DonnchaC",
             "repo": "onionbalance",
-            "stars": 274
+            "stars": 274,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -248,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vanguards help guard you from getting vanned...",
+            "homepage": null,
             "id": 99290494,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-06T01:04:46Z",
+            "open_issues": 30,
             "owner": "mikeperry-tor",
             "repo": "vanguards",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -264,12 +434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy creation of Tor Hidden Services",
+            "homepage": null,
             "id": 17054949,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2015-06-03T17:29:57Z",
+            "open_issues": 5,
             "owner": "glamrock",
             "repo": "Stormy",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -286,12 +461,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Ansible Role for Tor Relay Operators",
+            "homepage": null,
             "id": 31433462,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-01T17:54:21Z",
+            "open_issues": 7,
             "owner": "nusenu",
             "repo": "ansible-relayor",
-            "stars": 258
+            "stars": 258,
+            "topics": [
+              "ansible",
+              "ansible-role",
+              "tor",
+              "tor-network",
+              "tor-relay-operator"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -302,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to bootstrap a Debian server to be a set-and-forget Tor relay",
+            "homepage": null,
             "id": 27289788,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-01T11:14:14Z",
+            "open_issues": 10,
             "owner": "coldhakca",
             "repo": "tor-relay-bootstrap",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -318,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An all-inclusive Tor configuration for Raspberry Pi, serves as both a relay and personal Tor network",
+            "homepage": null,
             "id": 35292127,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-04-17T20:08:43Z",
+            "open_issues": 1,
             "owner": "CMoncur",
             "repo": "tor_box",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -340,12 +536,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go library for accessing and embedding Tor clients and servers",
+            "homepage": null,
             "id": 132914667,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-28T08:24:22Z",
+            "open_issues": 27,
             "owner": "cretz",
             "repo": "bine",
-            "stars": 823
+            "stars": 823,
+            "topics": [
+              "go",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -356,12 +560,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tor.rb is a Ruby library for interacting with the Tor anonymity network.",
+            "homepage": "https://rubygems.org/gems/tor",
             "id": 809972,
             "language": "Ruby",
+            "license": "Unlicense",
             "last_commit": "2024-07-07T20:39:35Z",
+            "open_issues": 1,
             "owner": "dryruby",
             "repo": "tor.rb",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "ruby",
+              "rubygems",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -372,12 +585,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP TorControl, a library to control TOR",
+            "homepage": "http://dunglas.fr/2013/02/php-torcontrol-a-library-to-control-tor/",
             "id": 8382630,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-08-09T13:01:50Z",
+            "open_issues": 1,
             "owner": "dunglas",
             "repo": "php-torcontrol",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "php",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -394,12 +615,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
+            "homepage": "https://dnscrypt.info",
             "id": 116739828,
             "language": "Go",
+            "license": "ISC",
             "last_commit": "2026-08-27T03:52:45Z",
+            "open_issues": 6,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13612
+            "stars": 13611,
+            "topics": [
+              "anonymized",
+              "anonymized-dns",
+              "dns",
+              "dns-over-https",
+              "dnscrypt",
+              "dnscrypt-proxy",
+              "dnscrypt-proxy2",
+              "doh",
+              "oblivious-dns-over-https",
+              "oblivious-doh",
+              "odoh",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -410,12 +649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rust library to provide a virtual utun interface to Tor",
+            "homepage": null,
             "id": 43363677,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-11-14T21:33:30Z",
+            "open_issues": 7,
             "owner": "iCepa",
             "repo": "tun2tor",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -432,12 +676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript implementation of the Tor (or Tor like) anonymizer project (The Onion Router)",
+            "homepage": null,
             "id": 5514899,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-08-29T20:09:15Z",
+            "open_issues": 2,
             "owner": "Ayms",
             "repo": "node-Tor",
-            "stars": 721
+            "stars": 721,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         },
@@ -448,12 +697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Haskell implementation of the Tor protocol.",
+            "homepage": null,
             "id": 46326802,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-11-03T23:50:56Z",
+            "open_issues": 25,
             "owner": "GaloisInc",
             "repo": "haskell-tor",
-            "stars": 274
+            "stars": 274,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
         }
@@ -462,15 +716,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:58.821Z",
+    "last_updated": "2026-08-29T04:43:24.137Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome Tor related projects, articles, papers, etc",
+      "homepage": null,
       "id": 46509461,
       "language": null,
+      "license": null,
       "last_commit": "2023-09-03T02:11:13Z",
+      "open_issues": 3,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 508
+      "stars": 508,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "onion",
+        "tor"
+      ]
     },
     "original_repository_sha": "966f679e5c599ad9b7844af03f25968287528092",
     "enhanced_repository": "enhansome/enhansome-tor",
