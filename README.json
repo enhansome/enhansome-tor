@@ -16,7 +16,8 @@
             "owner": "iCepa",
             "repo": "iCepa",
             "stars": 770
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "iCepa",
             "repo": "Tor.framework",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Apple iOS-based tools"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-28T00:47:17Z",
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4723
-          }
+            "stars": 4736
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "tor-actions",
             "repo": "setup-tor",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Development and research tools"
@@ -88,7 +92,8 @@
             "owner": "trimstray",
             "repo": "multitor",
             "stars": 1189
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "kragniz",
             "repo": "tor-controller",
             "stars": 533
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "End-user tools"
@@ -124,7 +130,8 @@
             "owner": "prof7bit",
             "repo": "TorChat",
             "stars": 1000
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Messaging"
@@ -145,7 +152,8 @@
             "owner": "luantak",
             "repo": "ToRat",
             "stars": 1030
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -160,7 +168,8 @@
             "owner": "atorrescogollo",
             "repo": "offensive-tor-toolkit",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -175,7 +184,8 @@
             "owner": "skizap",
             "repo": "dos-over-tor",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -190,7 +200,8 @@
             "owner": "nametoolong",
             "repo": "oregano",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Offensive tools"
@@ -211,7 +222,8 @@
             "owner": "alecmuffett",
             "repo": "eotk",
             "stars": 789
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -226,7 +238,8 @@
             "owner": "DonnchaC",
             "repo": "onionbalance",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -241,7 +254,8 @@
             "owner": "mikeperry-tor",
             "repo": "vanguards",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -256,7 +270,8 @@
             "owner": "glamrock",
             "repo": "Stormy",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Onion service tools"
@@ -277,7 +292,8 @@
             "owner": "nusenu",
             "repo": "ansible-relayor",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -292,7 +308,8 @@
             "owner": "coldhakca",
             "repo": "tor-relay-bootstrap",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -307,7 +324,8 @@
             "owner": "CMoncur",
             "repo": "tor_box",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Relay operator tools"
@@ -328,7 +346,8 @@
             "owner": "cretz",
             "repo": "bine",
             "stars": 823
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -343,7 +362,8 @@
             "owner": "dryruby",
             "repo": "tor.rb",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -358,7 +378,8 @@
             "owner": "dunglas",
             "repo": "php-torcontrol",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Tor controller interfaces"
@@ -378,8 +399,9 @@
             "last_commit": "2026-08-27T03:52:45Z",
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13605
-          }
+            "stars": 13612
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -394,7 +416,8 @@
             "owner": "iCepa",
             "repo": "tun2tor",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Tunneling tools"
@@ -415,7 +438,8 @@
             "owner": "Ayms",
             "repo": "node-Tor",
             "stars": 721
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         },
         {
           "node_type": "item",
@@ -430,14 +454,15 @@
             "owner": "GaloisInc",
             "repo": "haskell-tor",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-29T00:58:58.821Z"
         }
       ],
       "title": "Tor protocol implementations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:30:16.278Z",
+    "last_updated": "2026-08-29T00:58:58.821Z",
     "original_repository_info": {
       "archived": false,
       "id": 46509461,
