@@ -81,7 +81,7 @@
             "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4746,
+            "stars": 4751,
             "topics": [
               "algorithm",
               "crawler",
@@ -254,7 +254,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1030,
+            "stars": 1029,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -296,7 +296,7 @@
             "open_issues": 1,
             "owner": "atorrescogollo",
             "repo": "offensive-tor-toolkit",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "bind-shell",
               "ethical-hacking",
@@ -620,11 +620,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-08-31T03:55:52Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-01T03:52:19Z",
+            "open_issues": 7,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13629,
+            "stars": 13633,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:54:44.828Z",
+    "last_updated": "2026-09-01T19:56:47.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
