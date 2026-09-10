@@ -54,7 +54,7 @@
             "open_issues": 7,
             "owner": "iCepa",
             "repo": "Tor.framework",
-            "stars": 257,
+            "stars": 258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -78,10 +78,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T18:28:05Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4825,
+            "stars": 4830,
             "topics": [
               "algorithm",
               "crawler",
@@ -254,7 +254,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1030,
+            "stars": 1031,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -470,7 +470,7 @@
             "open_issues": 7,
             "owner": "nusenu",
             "repo": "ansible-relayor",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "ansible",
               "ansible-role",
@@ -624,7 +624,7 @@
             "open_issues": 7,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13650,
+            "stars": 13653,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:47:48.625Z",
+    "last_updated": "2026-09-10T19:44:43.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
