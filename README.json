@@ -81,7 +81,7 @@
             "open_issues": 9,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4830,
+            "stars": 4838,
             "topics": [
               "algorithm",
               "crawler",
@@ -380,7 +380,7 @@
             "open_issues": 19,
             "owner": "alecmuffett",
             "repo": "eotk",
-            "stars": 789,
+            "stars": 788,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:44:43.086Z",
+    "last_updated": "2026-09-11T19:45:04.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
