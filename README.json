@@ -77,11 +77,11 @@
             "id": 91573963,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:28:05Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-18T01:30:39Z",
+            "open_issues": 9,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4889,
+            "stars": 4898,
             "topics": [
               "algorithm",
               "crawler",
@@ -620,11 +620,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-09-14T12:31:09Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-18T17:15:35Z",
+            "open_issues": 2,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13673,
+            "stars": 13675,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:21:09.909Z",
+    "last_updated": "2026-09-18T19:39:35.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
