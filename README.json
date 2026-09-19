@@ -77,11 +77,11 @@
             "id": 91573963,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T01:30:39Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-19T01:46:47Z",
+            "open_issues": 10,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4898,
+            "stars": 4902,
             "topics": [
               "algorithm",
               "crawler",
@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1192,
+            "stars": 1191,
             "topics": [
               "balance",
               "circuit",
@@ -254,7 +254,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1031,
+            "stars": 1030,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -470,7 +470,7 @@
             "open_issues": 7,
             "owner": "nusenu",
             "repo": "ansible-relayor",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "ansible",
               "ansible-role",
@@ -545,7 +545,7 @@
             "open_issues": 27,
             "owner": "cretz",
             "repo": "bine",
-            "stars": 826,
+            "stars": 827,
             "topics": [
               "go",
               "tor"
@@ -624,7 +624,7 @@
             "open_issues": 2,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13675,
+            "stars": 13677,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:39:35.034Z",
+    "last_updated": "2026-09-19T19:20:12.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
