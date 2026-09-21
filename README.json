@@ -81,7 +81,7 @@
             "open_issues": 10,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4914,
+            "stars": 4921,
             "topics": [
               "algorithm",
               "crawler",
@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1191,
+            "stars": 1190,
             "topics": [
               "balance",
               "circuit",
@@ -197,7 +197,7 @@
             "open_issues": 10,
             "owner": "kragniz",
             "repo": "tor-controller",
-            "stars": 532,
+            "stars": 531,
             "topics": [
               "kubernetes",
               "tor"
@@ -227,7 +227,7 @@
             "open_issues": 68,
             "owner": "prof7bit",
             "repo": "TorChat",
-            "stars": 1000,
+            "stars": 1001,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -254,7 +254,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1030,
+            "stars": 1031,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -345,7 +345,7 @@
             "open_issues": 0,
             "owner": "nametoolong",
             "repo": "oregano",
-            "stars": 27,
+            "stars": 26,
             "topics": [
               "anticensorship",
               "censorship-circumvention",
@@ -380,7 +380,7 @@
             "open_issues": 20,
             "owner": "alecmuffett",
             "repo": "eotk",
-            "stars": 788,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -401,7 +401,7 @@
             "open_issues": 20,
             "owner": "DonnchaC",
             "repo": "onionbalance",
-            "stars": 274,
+            "stars": 273,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -620,11 +620,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-09-18T17:15:35Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-21T03:52:36Z",
+            "open_issues": 3,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13678,
+            "stars": 13679,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:29:11.427Z",
+    "last_updated": "2026-09-21T21:06:04.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -728,7 +728,7 @@
       "open_issues": 3,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 510,
+      "stars": 509,
       "topics": [
         "awesome",
         "awesome-list",

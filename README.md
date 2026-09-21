@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,914 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,921 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -77,8 +77,8 @@
 
 # End-user tools
 
-* [multitor](https://github.com/trimstray/multitor) ⭐ 1,191 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
-* [Tor Controller (for Kubernetes)](https://github.com/kragniz/tor-controller) ⭐ 532 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Expose applications deployed in Kubernetes clusters via Tor Onion services.
+* [multitor](https://github.com/trimstray/multitor) ⭐ 1,190 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
+* [Tor Controller (for Kubernetes)](https://github.com/kragniz/tor-controller) ⭐ 531 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Expose applications deployed in Kubernetes clusters via Tor Onion services.
 * [GetTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-gettor) - E-mail autoresponder providing Tor's packages over SMTP. This has been relatively unchanged for quite a while.
 * [Ooni Probe](https://www.torproject.org/getinvolved/volunteer.html.en#project-ooni) - Censorship scanner, checking your local connection for blocked or modified content.
 * [Tor2web](https://www.torproject.org/getinvolved/volunteer.html.en#project-tor2web) - Allows Internet users to browse websites running in Tor hidden services. It trades user anonymity for usability by allowing anonymous content to be distributed to non-anonymous users.
@@ -96,7 +96,7 @@
 
 # Messaging
 
-* [TorChat](https://github.com/prof7bit/TorChat) ⭐ 1,000 | 🐛 68 | 🌐 Pascal | 📅 2018-10-22 - Decentralized anonymous instant messenger on top of Tor Hidden Services.
+* [TorChat](https://github.com/prof7bit/TorChat) ⭐ 1,001 | 🐛 68 | 🌐 Pascal | 📅 2018-10-22 - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 * [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums over various transports, including Bluetooth, clearnet Wi-Fi, or the Tor network.
 * [Ricochet](https://ricochet.im/) - Jabber-based client that creates an Onion service used to rendezvous with your contacts without revealing your location or IP address.
 * [TorChat-Mac](https://github.com/javerous/TorChat-Mac) - Mac OS X native TorChat client.
@@ -110,7 +110,7 @@
 
 # Onion service tools
 
-* [Enterprise Onion Toolkit](https://github.com/alecmuffett/eotk) ⭐ 788 | 🐛 20 | 🌐 Awk | 📅 2024-02-09 - Tool for assisting in large-scale deployments of HTTP(S) Onion sites as an official Onionspace presence for existing clearnet websites.
+* [Enterprise Onion Toolkit](https://github.com/alecmuffett/eotk) ⭐ 787 | 🐛 20 | 🌐 Awk | 📅 2024-02-09 - Tool for assisting in large-scale deployments of HTTP(S) Onion sites as an official Onionspace presence for existing clearnet websites.
 * [OnionBalance](https://github.com/DonnchaC/onionbalance) ⚠️ Archived - Load-balancing and redundancy for Tor hidden services.
 * [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 247 | 🐛 30 | 🌐 Python | 📅 2024-07-06 - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 * [Stormy](https://github.com/glamrock/stormy) ⭐ 40 | 🐛 5 | 🌐 Python | 📅 2015-06-03 - Easy creation of Tor Onion services ("Location-Hidden Services"), currently under heavy development.
@@ -152,7 +152,7 @@
 
 # Tunneling tools
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,678 | 🐛 2 | 🌐 Go | 📅 2026-09-18 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,679 | 🐛 3 | 🌐 Go | 📅 2026-09-21 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 * [tun2tor](https://github.com/iCepa/tun2tor) ⭐ 104 | 🐛 7 | 🌐 Rust | 📅 2021-11-14 - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 * [tor\_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server.
 * [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
@@ -172,7 +172,7 @@
 # Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,883 | 🐛 463 | 🌐 Python | 📅 2026-09-20 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,883 | 🐛 463 | 🌐 Python | 📅 2026-09-21 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 # License
 
@@ -182,4 +182,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
