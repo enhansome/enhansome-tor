@@ -36,8 +36,8 @@
 
 # Apple iOS-based tools
 
-* [iCepa](https://github.com/iCepa/iCepa) ⭐ 771 | 🐛 1 | 🌐 Swift | 📅 2024-06-02 - Apple iOS system-wide VPN based Tor client.
-* [Tor.framework](https://github.com/iCepa/Tor.framework) ⭐ 258 | 🐛 7 | 🌐 Objective-C | 📅 2026-08-11 - The easiest way to embed Tor in your iOS application.
+* [iCepa](https://github.com/iCepa/iCepa) ⭐ 772 | 🐛 1 | 🌐 Swift | 📅 2024-06-02 - Apple iOS system-wide VPN based Tor client.
+* [Tor.framework](https://github.com/iCepa/Tor.framework) ⭐ 258 | 🐛 7 | 🌐 Objective-C | 📅 2026-09-22 - The easiest way to embed Tor in your iOS application.
 
 # Articles
 
@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,921 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,927 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -172,7 +172,7 @@
 # Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,883 | 🐛 463 | 🌐 Python | 📅 2026-09-21 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,884 | 🐛 461 | 🌐 Python | 📅 2026-09-22 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 # License
 
@@ -182,4 +182,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
