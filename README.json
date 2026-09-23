@@ -81,7 +81,7 @@
             "open_issues": 10,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4927,
+            "stars": 4935,
             "topics": [
               "algorithm",
               "crawler",
@@ -204,9 +204,91 @@
             ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OONI Probe CLI",
+          "description": "Command-line client for running OONI network measurement tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OONI Probe Engine and CLI",
+            "homepage": "https://ooni.org/install",
+            "id": 120651415,
+            "language": "Go",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-23T08:57:31Z",
+            "open_issues": 46,
+            "owner": "ooni",
+            "repo": "probe-cli",
+            "stars": 289,
+            "topics": []
+          },
+          "first_seen": "2026-09-23T20:25:45.265Z"
+        },
+        {
+          "node_type": "item",
+          "title": "archive.is",
+          "description": "A CLI tool that easy to access archive.today's Tor Hidden Services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A command-line tool and Go package for wayback web pages to archive.today",
+            "homepage": null,
+            "id": 271982515,
+            "language": "Go",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-03T02:09:51Z",
+            "open_issues": 10,
+            "owner": "wabarc",
+            "repo": "archive.is",
+            "stars": 50,
+            "topics": [
+              "anticensorship",
+              "archive",
+              "archiveis",
+              "archivetoday",
+              "golang",
+              "internet-archive",
+              "internet-freedom",
+              "memento",
+              "no-more-404",
+              "tor",
+              "wayback",
+              "wayback-machine"
+            ]
+          },
+          "first_seen": "2026-09-23T20:25:45.265Z"
         }
       ],
       "title": "End-user tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OnionTip",
+          "description": "Web app which parses Tor relay data to allow users to tip volunteers in cryptocurrency for running relay(s) in a fair and open way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OnionTip is a web app which parses Tor relay data to allow users to tip volunteers for running relay in a fair and open way.",
+            "homepage": "https://oniontip.com",
+            "id": 21671898,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2018-03-14T16:56:06Z",
+            "open_issues": 7,
+            "owner": "DonnchaC",
+            "repo": "oniontip",
+            "stars": 53,
+            "topics": []
+          },
+          "first_seen": "2026-09-23T20:25:45.265Z"
+        }
+      ],
+      "title": "Funding"
     },
     {
       "description": null,
@@ -227,7 +309,7 @@
             "open_issues": 68,
             "owner": "prof7bit",
             "repo": "TorChat",
-            "stars": 1001,
+            "stars": 1000,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -254,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1031,
+            "stars": 1030,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -364,6 +446,48 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "wayback",
+          "description": "Hosting Tor Hidden Services as portal to using Wayback Machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.",
+            "homepage": "https://docs.wabarc.eu.org",
+            "id": 271984275,
+            "language": "Go",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-07T15:50:31Z",
+            "open_issues": 63,
+            "owner": "wabarc",
+            "repo": "wayback",
+            "stars": 2232,
+            "topics": [
+              "archive",
+              "har",
+              "heroku",
+              "internet-archive",
+              "ipfs",
+              "irc",
+              "mastodon",
+              "matrix",
+              "memento",
+              "nostr",
+              "notion",
+              "save-the-internet",
+              "screenshot",
+              "self-hosted",
+              "snapshot",
+              "snapshot-webpage",
+              "telegram",
+              "telegraph",
+              "twitter",
+              "wayback-machine"
+            ]
+          },
+          "first_seen": "2026-09-23T20:25:45.265Z"
+        },
         {
           "node_type": "item",
           "title": "Enterprise Onion Toolkit",
@@ -480,6 +604,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Nyx",
+          "description": "Command-line monitor for Tor relays and clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Command-line monitor for Tor.",
+            "homepage": "https://nyx.torproject.org/",
+            "id": 229406099,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2024-07-20T01:13:15Z",
+            "open_issues": 38,
+            "owner": "torproject",
+            "repo": "nyx",
+            "stars": 150,
+            "topics": []
+          },
+          "first_seen": "2026-09-23T20:25:45.265Z"
         },
         {
           "node_type": "item",
@@ -620,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-09-21T03:52:36Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-23T03:52:36Z",
+            "open_issues": 4,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13679,
+            "stars": 13682,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -716,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:12:39.685Z",
+    "last_updated": "2026-09-23T20:25:45.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -724,8 +869,8 @@
       "id": 46509461,
       "language": null,
       "license": null,
-      "last_commit": "2023-09-03T02:11:13Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-23T03:53:42Z",
+      "open_issues": 0,
       "owner": "ajvb",
       "repo": "awesome-tor",
       "stars": 509,
@@ -736,7 +881,7 @@
         "tor"
       ]
     },
-    "original_repository_sha": "966f679e5c599ad9b7844af03f25968287528092",
+    "original_repository_sha": "48db2354a751584055301556a808b4790e861693",
     "enhanced_repository": "enhansome/enhansome-tor",
     "enhanced_repository_description": null,
     "title": "Awesome Tor with stars"
