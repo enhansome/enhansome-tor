@@ -37,7 +37,7 @@
 # Apple iOS-based tools
 
 * [iCepa](https://github.com/iCepa/iCepa) ⭐ 772 | 🐛 1 | 🌐 Swift | 📅 2024-06-02 - Apple iOS system-wide VPN based Tor client.
-* [Tor.framework](https://github.com/iCepa/Tor.framework) ⭐ 258 | 🐛 7 | 🌐 Objective-C | 📅 2026-09-22 - The easiest way to embed Tor in your iOS application.
+* [Tor.framework](https://github.com/iCepa/Tor.framework) ⭐ 258 | 🐛 7 | 🌐 Objective-C | 📅 2026-09-25 - The easiest way to embed Tor in your iOS application.
 
 # Articles
 
@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,943 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,949 | 🐛 10 | 🌐 Python | 📅 2026-09-19 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -79,7 +79,7 @@
 
 * [multitor](https://github.com/trimstray/multitor) ⭐ 1,190 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
 * [Tor Controller (for Kubernetes)](https://github.com/kragniz/tor-controller) ⭐ 531 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Expose applications deployed in Kubernetes clusters via Tor Onion services.
-* [OONI Probe CLI](https://github.com/ooni/probe-cli) ⭐ 289 | 🐛 46 | 🌐 Go | 📅 2026-09-23 - Command-line client for running OONI network measurement tests.
+* [OONI Probe CLI](https://github.com/ooni/probe-cli) ⭐ 293 | 🐛 46 | 🌐 Go | 📅 2026-09-25 - Command-line client for running OONI network measurement tests.
 * [archive.is](https://github.com/wabarc/archive.is) ⭐ 50 | 🐛 10 | 🌐 Go | 📅 2026-09-03 - A CLI tool that easy to access archive.today's Tor Hidden Services.
 * [GetTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-gettor) - E-mail autoresponder providing Tor's packages over SMTP. This has been relatively unchanged for quite a while.
 * [OONI Probe](https://www.torproject.org/getinvolved/volunteer.html.en#project-ooni) - Censorship scanner, checking your local connection for blocked or modified content.
@@ -111,7 +111,7 @@
 
 # Onion service tools
 
-* [wayback](https://github.com/wabarc/wayback) ⭐ 2,232 | 🐛 64 | 🌐 Go | 📅 2026-09-07 - Hosting Tor Hidden Services as portal to using Wayback Machine.
+* [wayback](https://github.com/wabarc/wayback) ⭐ 2,234 | 🐛 64 | 🌐 Go | 📅 2026-09-07 - Hosting Tor Hidden Services as portal to using Wayback Machine.
 * [Enterprise Onion Toolkit](https://github.com/alecmuffett/eotk) ⭐ 787 | 🐛 20 | 🌐 Awk | 📅 2024-02-09 - Tool for assisting in large-scale deployments of HTTP(S) Onion sites as an official Onionspace presence for existing clearnet websites.
 * [OnionBalance](https://github.com/DonnchaC/onionbalance) ⚠️ Archived - Load-balancing and redundancy for Tor hidden services.
 * [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 247 | 🐛 30 | 🌐 Python | 📅 2024-07-06 - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
@@ -136,7 +136,7 @@
 # Relay operator tools
 
 * [ansible-relayor](https://github.com/nusenu/ansible-relayor) ⭐ 259 | 🐛 7 | 🌐 HTML | 📅 2026-06-01 - An Ansible role for Tor Relay Operators.
-* [Nyx](https://github.com/torproject/nyx) ⭐ 150 | 🐛 38 | 🌐 Python | 📅 2024-07-20 - Command-line monitor for Tor relays and clients.
+* [Nyx](https://github.com/torproject/nyx) ⭐ 151 | 🐛 38 | 🌐 Python | 📅 2024-07-20 - Command-line monitor for Tor relays and clients.
 * [tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap) ⭐ 147 | 🐛 10 | 🌐 Shell | 📅 2023-09-01 - Script to bootstrap a Debian server to be a set-and-forget Tor relay.
 * [tor\_box](https://github.com/CMoncur/tor_box) ⭐ 114 | 🐛 1 | 🌐 Shell | 📅 2018-04-17 - An all-inclusive Tor configuration for Raspberry Pi, serves as both a relay and personal Tor network.
 * [Anonymizing Relay Monitor (Arm)](https://www.torproject.org/getinvolved/volunteer.html.en#project-arm) - `top`-like terminal status monitor for Tor, intended for command-line aficionados, SSH connections, and anyone with a TTY terminal.
@@ -158,7 +158,7 @@
 
 # Tunneling tools
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,685 | 🐛 4 | 🌐 Go | 📅 2026-09-24 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,688 | 🐛 5 | 🌐 Go | 📅 2026-09-25 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 * [tun2tor](https://github.com/iCepa/tun2tor) ⭐ 104 | 🐛 7 | 🌐 Rust | 📅 2021-11-14 - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 * [tor\_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server.
 * [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
@@ -173,14 +173,14 @@
 
 # Tor protocol implementations
 
-* [node-Tor](https://github.com/Ayms/node-Tor) ⭐ 721 | 🐛 2 | 🌐 JavaScript | 📅 2022-08-29 - Javascript implementation of the Tor (or Tor like) anonymizer project.
+* [node-Tor](https://github.com/Ayms/node-Tor) ⭐ 720 | 🐛 2 | 🌐 JavaScript | 📅 2022-08-29 - Javascript implementation of the Tor (or Tor like) anonymizer project.
 * [haskell-tor](https://github.com/GaloisInc/haskell-tor) ⭐ 274 | 🐛 25 | 🌐 Haskell | 📅 2017-11-03 - Haskell implementation of the Tor protocol.
 * [Arti](https://arti.torproject.org/) - A Future-Proof Rust implementation of Tor by The Tor Project.
 
 # Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,885 | 🐛 463 | 🌐 Python | 📅 2026-09-24 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,885 | 🐛 466 | 🌐 Python | 📅 2026-09-25 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 # License
 
@@ -190,4 +190,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
