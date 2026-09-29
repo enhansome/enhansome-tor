@@ -81,7 +81,7 @@
             "open_issues": 10,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4966,
+            "stars": 4970,
             "topics": [
               "algorithm",
               "crawler",
@@ -217,8 +217,8 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T20:02:19Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-29T09:07:22Z",
+            "open_issues": 45,
             "owner": "ooni",
             "repo": "probe-cli",
             "stars": 292,
@@ -336,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1032,
+            "stars": 1033,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -462,7 +462,7 @@
             "open_issues": 64,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2236,
+            "stars": 2238,
             "topics": [
               "archive",
               "har",
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-09-28T03:55:17Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-29T18:26:15Z",
+            "open_issues": 5,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13701,
+            "stars": 13705,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -830,7 +830,7 @@
             "open_issues": 2,
             "owner": "Ayms",
             "repo": "node-Tor",
-            "stars": 720,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:33:35.167Z",
+    "last_updated": "2026-09-29T21:25:07.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
