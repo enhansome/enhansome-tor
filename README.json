@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1190,
+            "stars": 1191,
             "topics": [
               "balance",
               "circuit",
@@ -769,7 +769,7 @@
             "open_issues": 5,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13713,
+            "stars": 13715,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:04.047Z",
+    "last_updated": "2026-10-03T19:56:58.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
