@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:20:29.995Z",
+    "last_updated": "2026-10-03T05:10:04.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -873,7 +873,7 @@
       "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 509,
+      "stars": 510,
       "topics": [
         "awesome",
         "awesome-list",
