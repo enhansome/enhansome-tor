@@ -81,7 +81,7 @@
             "open_issues": 11,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 4997,
+            "stars": 5003,
             "topics": [
               "algorithm",
               "crawler",
@@ -462,7 +462,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "archive",
               "har",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:19.120Z",
+    "last_updated": "2026-10-06T21:39:33.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",

@@ -32,7 +32,7 @@
 
 * [Orbot](https://orbot.app/) - Provides Tor on the Android platform.
 * [Tor Browser for Android](https://www.torproject.org/download/#android) - Official Tor Browser for Android.
-* [Tor Onion Proxy Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library) ⭐ 186 | 🐛 44 | 🌐 Java | 📅 2024-06-09 - Provides a JAR and an AAR for embedding a Tor Onion service proxy into a Java or Android program.
+* [Tor Onion Proxy Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library) ⭐ 187 | 🐛 44 | 🌐 Java | 📅 2024-06-09 - Provides a JAR and an AAR for embedding a Tor Onion service proxy into a Java or Android program.
 
 # Apple iOS-based tools
 
@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,997 | 🐛 11 | 🌐 Python | 📅 2026-10-06 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,003 | 🐛 11 | 🌐 Python | 📅 2026-10-06 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -111,7 +111,7 @@
 
 # Onion service tools
 
-* [wayback](https://github.com/wabarc/wayback) ⭐ 2,236 | 🐛 65 | 🌐 Go | 📅 2026-09-07 - Hosting Tor Hidden Services as portal to using Wayback Machine.
+* [wayback](https://github.com/wabarc/wayback) ⭐ 2,237 | 🐛 65 | 🌐 Go | 📅 2026-09-07 - Hosting Tor Hidden Services as portal to using Wayback Machine.
 * [Enterprise Onion Toolkit](https://github.com/alecmuffett/eotk) ⭐ 788 | 🐛 20 | 🌐 Awk | 📅 2024-02-09 - Tool for assisting in large-scale deployments of HTTP(S) Onion sites as an official Onionspace presence for existing clearnet websites.
 * [OnionBalance](https://github.com/DonnchaC/onionbalance) ⚠️ Archived - Load-balancing and redundancy for Tor hidden services.
 * [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 247 | 🐛 30 | 🌐 Python | 📅 2024-07-06 - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
@@ -180,7 +180,7 @@
 # Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,887 | 🐛 466 | 🌐 Python | 📅 2026-10-05 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,887 | 🐛 466 | 🌐 Python | 📅 2026-10-06 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 # License
 
