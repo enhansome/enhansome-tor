@@ -81,7 +81,7 @@
             "open_issues": 11,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5003,
+            "stars": 5015,
             "topics": [
               "algorithm",
               "crawler",
@@ -218,10 +218,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T08:35:06Z",
-            "open_issues": 43,
+            "open_issues": 45,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -238,7 +238,7 @@
             "id": 271982515,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T06:11:10Z",
+            "last_commit": "2026-10-07T18:04:38Z",
             "open_issues": 10,
             "owner": "wabarc",
             "repo": "archive.is",
@@ -462,7 +462,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2237,
+            "stars": 2236,
             "topics": [
               "archive",
               "har",
@@ -504,7 +504,7 @@
             "open_issues": 20,
             "owner": "alecmuffett",
             "repo": "eotk",
-            "stars": 788,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -769,7 +769,7 @@
             "open_issues": 5,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13723,
+            "stars": 13721,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:39:33.104Z",
+    "last_updated": "2026-10-07T22:01:10.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
