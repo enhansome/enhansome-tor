@@ -81,7 +81,7 @@
             "open_issues": 11,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5033,
+            "stars": 5042,
             "topics": [
               "algorithm",
               "crawler",
@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1193,
+            "stars": 1194,
             "topics": [
               "balance",
               "circuit",
@@ -221,7 +221,7 @@
             "open_issues": 45,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 295,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -462,7 +462,7 @@
             "open_issues": 57,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2239,
+            "stars": 2240,
             "topics": [
               "archive",
               "har",
@@ -769,7 +769,7 @@
             "open_issues": 6,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13729,
+            "stars": 13730,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:34:40.889Z",
+    "last_updated": "2026-10-11T20:58:26.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
