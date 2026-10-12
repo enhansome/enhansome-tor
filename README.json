@@ -50,7 +50,7 @@
             "id": 42680520,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T10:12:18Z",
+            "last_commit": "2026-10-12T14:48:18Z",
             "open_issues": 7,
             "owner": "iCepa",
             "repo": "Tor.framework",
@@ -81,7 +81,7 @@
             "open_issues": 11,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5042,
+            "stars": 5052,
             "topics": [
               "algorithm",
               "crawler",
@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1194,
+            "stars": 1193,
             "topics": [
               "balance",
               "circuit",
@@ -504,7 +504,7 @@
             "open_issues": 20,
             "owner": "alecmuffett",
             "repo": "eotk",
-            "stars": 787,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -769,7 +769,7 @@
             "open_issues": 6,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13730,
+            "stars": 13735,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:58:26.967Z",
+    "last_updated": "2026-10-12T23:38:05.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
