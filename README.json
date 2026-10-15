@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5065,
+            "stars": 5070,
             "topics": [
               "algorithm",
               "crawler",
@@ -458,11 +458,11 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T14:07:15Z",
+            "last_commit": "2026-10-15T16:17:02Z",
             "open_issues": 63,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2241,
+            "stars": 2240,
             "topics": [
               "archive",
               "har",
@@ -632,7 +632,7 @@
           "description": "Script to bootstrap a Debian server to be a set-and-forget Tor relay.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Script to bootstrap a Debian server to be a set-and-forget Tor relay",
             "homepage": null,
             "id": 27289788,
@@ -765,7 +765,7 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-10-14T11:01:10Z",
+            "last_commit": "2026-10-15T13:30:11Z",
             "open_issues": 6,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:43:36.803Z",
+    "last_updated": "2026-10-15T20:21:36.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
