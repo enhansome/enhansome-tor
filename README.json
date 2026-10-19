@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5082,
+            "stars": 5085,
             "topics": [
               "algorithm",
               "crawler",
@@ -217,8 +217,8 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T11:05:26Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-19T11:07:47Z",
+            "open_issues": 38,
             "owner": "ooni",
             "repo": "probe-cli",
             "stars": 297,
@@ -336,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1036,
+            "stars": 1038,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -427,7 +427,7 @@
             "open_issues": 0,
             "owner": "nametoolong",
             "repo": "oregano",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "anticensorship",
               "censorship-circumvention",
@@ -621,7 +621,7 @@
             "open_issues": 38,
             "owner": "torproject",
             "repo": "nyx",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-10-16T11:44:05Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-19T03:55:22Z",
+            "open_issues": 5,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13747,
+            "stars": 13749,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:26:48.716Z",
+    "last_updated": "2026-10-19T21:33:27.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -873,7 +873,7 @@
       "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 512,
+      "stars": 513,
       "topics": [
         "awesome",
         "awesome-list",
