@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5085,
+            "stars": 5092,
             "topics": [
               "algorithm",
               "crawler",
@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1194,
+            "stars": 1195,
             "topics": [
               "balance",
               "circuit",
@@ -217,8 +217,8 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T12:07:44Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-21T14:13:23Z",
+            "open_issues": 38,
             "owner": "ooni",
             "repo": "probe-cli",
             "stars": 297,
@@ -336,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1038,
+            "stars": 1037,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -458,11 +458,11 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T12:52:01Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-21T01:08:48Z",
+            "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2241,
+            "stars": 2242,
             "topics": [
               "archive",
               "har",
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-10-20T12:49:49Z",
+            "last_commit": "2026-10-21T08:01:37Z",
             "open_issues": 1,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13750,
+            "stars": 13757,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:38:19.979Z",
+    "last_updated": "2026-10-21T20:39:13.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -873,7 +873,7 @@
       "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 513,
+      "stars": 514,
       "topics": [
         "awesome",
         "awesome-list",
