@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5092,
+            "stars": 5098,
             "topics": [
               "algorithm",
               "crawler",
@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1195,
+            "stars": 1194,
             "topics": [
               "balance",
               "circuit",
@@ -217,11 +217,11 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T14:13:23Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-22T13:20:43Z",
+            "open_issues": 37,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -458,11 +458,11 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T01:08:48Z",
+            "last_commit": "2026-10-22T09:53:50Z",
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2242,
+            "stars": 2245,
             "topics": [
               "archive",
               "har",
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-10-21T08:01:37Z",
+            "last_commit": "2026-10-22T20:20:15Z",
             "open_issues": 1,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13757,
+            "stars": 13761,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:39:13.098Z",
+    "last_updated": "2026-10-22T20:34:23.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
