@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "iCepa",
             "repo": "iCepa",
-            "stars": 773,
+            "stars": 772,
             "topics": [
               "apple",
               "bridges-traffic",
@@ -54,7 +54,7 @@
             "open_issues": 7,
             "owner": "iCepa",
             "repo": "Tor.framework",
-            "stars": 258,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -81,7 +81,7 @@
             "open_issues": 14,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5130,
+            "stars": 5135,
             "topics": [
               "algorithm",
               "crawler",
@@ -221,7 +221,7 @@
             "open_issues": 37,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 298,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -238,7 +238,7 @@
             "id": 271982515,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T19:17:48Z",
+            "last_commit": "2026-10-27T23:49:17Z",
             "open_issues": 13,
             "owner": "wabarc",
             "repo": "archive.is",
@@ -462,7 +462,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2249,
+            "stars": 2248,
             "topics": [
               "archive",
               "har",
@@ -739,7 +739,7 @@
             "open_issues": 1,
             "owner": "dunglas",
             "repo": "php-torcontrol",
-            "stars": 87,
+            "stars": 86,
             "topics": [
               "php",
               "tor"
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-10-27T03:52:41Z",
+            "last_commit": "2026-10-28T03:53:21Z",
             "open_issues": 7,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13779,
+            "stars": 13782,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:21:37.597Z",
+    "last_updated": "2026-10-28T21:40:58.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -870,7 +870,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-23T03:53:42Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "ajvb",
       "repo": "awesome-tor",
       "stars": 518,
