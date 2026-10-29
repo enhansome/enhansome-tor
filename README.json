@@ -50,7 +50,7 @@
             "id": 42680520,
             "language": "Objective-C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T14:48:18Z",
+            "last_commit": "2026-10-29T18:18:22Z",
             "open_issues": 7,
             "owner": "iCepa",
             "repo": "Tor.framework",
@@ -77,11 +77,11 @@
             "id": 91573963,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T04:07:13Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-28T23:51:30Z",
+            "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5135,
+            "stars": 5138,
             "topics": [
               "algorithm",
               "crawler",
@@ -217,7 +217,7 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T18:25:56Z",
+            "last_commit": "2026-10-29T18:24:33Z",
             "open_issues": 37,
             "owner": "ooni",
             "repo": "probe-cli",
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-10-28T03:53:21Z",
+            "last_commit": "2026-10-29T03:53:02Z",
             "open_issues": 7,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13782,
+            "stars": 13790,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:40:58.929Z",
+    "last_updated": "2026-10-29T21:49:55.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -869,8 +869,8 @@
       "id": 46509461,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-23T03:53:42Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-29T00:31:10Z",
+      "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
       "stars": 518,
@@ -881,7 +881,7 @@
         "tor"
       ]
     },
-    "original_repository_sha": "48db2354a751584055301556a808b4790e861693",
+    "original_repository_sha": "4bf444386e36ab166b32f73c0a0a2e6b3d718a8e",
     "enhanced_repository": "enhansome/enhansome-tor",
     "enhanced_repository_description": null,
     "title": "Awesome Tor with stars"
