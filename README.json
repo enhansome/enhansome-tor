@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5141,
+            "stars": 5148,
             "topics": [
               "algorithm",
               "crawler",
@@ -123,7 +123,7 @@
             "open_issues": 7,
             "owner": "tor-actions",
             "repo": "setup-tor",
-            "stars": 11,
+            "stars": 10,
             "topics": [
               "actions",
               "github-actions",
@@ -336,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1037,
+            "stars": 1038,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -769,7 +769,7 @@
             "open_issues": 7,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13793,
+            "stars": 13797,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:31:43.220Z",
+    "last_updated": "2026-10-31T20:27:42.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",

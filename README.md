@@ -59,8 +59,8 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,141 | 🐛 12 | 🌐 Python | 📅 2026-10-28 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
-* [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,148 | 🐛 12 | 🌐 Python | 📅 2026-10-28 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 10 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
 * [DocTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-doctor) - Notification service that monitors newly published descriptor information for issues. This is primarily a service to help the tor directory authority operators, but it also checks for a handful of other issues like sybil attacks.
@@ -159,7 +159,7 @@
 
 # Tunneling tools
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,793 | 🐛 7 | 🌐 Go | 📅 2026-10-30 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,797 | 🐛 7 | 🌐 Go | 📅 2026-10-30 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 * [tun2tor](https://github.com/iCepa/tun2tor) ⭐ 104 | 🐛 7 | 🌐 Rust | 📅 2021-11-14 - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 * [tor\_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server.
 * [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
@@ -181,7 +181,7 @@
 # Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,891 | 🐛 484 | 🌐 Python | 📅 2026-10-30 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,891 | 🐛 485 | 🌐 Python | 📅 2026-10-31 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 # License
 
@@ -191,4 +191,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
