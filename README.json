@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "iCepa",
             "repo": "iCepa",
-            "stars": 772,
+            "stars": 771,
             "topics": [
               "apple",
               "bridges-traffic",
@@ -54,7 +54,7 @@
             "open_issues": 7,
             "owner": "iCepa",
             "repo": "Tor.framework",
-            "stars": 255,
+            "stars": 254,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5162,
+            "stars": 5165,
             "topics": [
               "algorithm",
               "crawler",
@@ -123,7 +123,7 @@
             "open_issues": 7,
             "owner": "tor-actions",
             "repo": "setup-tor",
-            "stars": 10,
+            "stars": 9,
             "topics": [
               "actions",
               "github-actions",
@@ -217,7 +217,7 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T05:51:26Z",
+            "last_commit": "2026-11-06T17:52:35Z",
             "open_issues": 37,
             "owner": "ooni",
             "repo": "probe-cli",
@@ -238,7 +238,7 @@
             "id": 271982515,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T23:49:17Z",
+            "last_commit": "2026-11-06T20:26:39Z",
             "open_issues": 13,
             "owner": "wabarc",
             "repo": "archive.is",
@@ -309,7 +309,7 @@
             "open_issues": 68,
             "owner": "prof7bit",
             "repo": "TorChat",
-            "stars": 1000,
+            "stars": 999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -336,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1038,
+            "stars": 1036,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -378,7 +378,7 @@
             "open_issues": 1,
             "owner": "atorrescogollo",
             "repo": "offensive-tor-toolkit",
-            "stars": 65,
+            "stars": 64,
             "topics": [
               "bind-shell",
               "ethical-hacking",
@@ -406,7 +406,7 @@
             "open_issues": 0,
             "owner": "skizap",
             "repo": "dos-over-tor",
-            "stars": 45,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -427,7 +427,7 @@
             "open_issues": 0,
             "owner": "nametoolong",
             "repo": "oregano",
-            "stars": 27,
+            "stars": 26,
             "topics": [
               "anticensorship",
               "censorship-circumvention",
@@ -504,7 +504,7 @@
             "open_issues": 20,
             "owner": "alecmuffett",
             "repo": "eotk",
-            "stars": 786,
+            "stars": 784,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -525,7 +525,7 @@
             "open_issues": 20,
             "owner": "DonnchaC",
             "repo": "onionbalance",
-            "stars": 273,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -546,7 +546,7 @@
             "open_issues": 30,
             "owner": "mikeperry-tor",
             "repo": "vanguards",
-            "stars": 247,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -567,7 +567,7 @@
             "open_issues": 5,
             "owner": "glamrock",
             "repo": "Stormy",
-            "stars": 40,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -594,7 +594,7 @@
             "open_issues": 7,
             "owner": "nusenu",
             "repo": "ansible-relayor",
-            "stars": 259,
+            "stars": 258,
             "topics": [
               "ansible",
               "ansible-role",
@@ -621,7 +621,7 @@
             "open_issues": 38,
             "owner": "torproject",
             "repo": "nyx",
-            "stars": 151,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -642,7 +642,7 @@
             "open_issues": 10,
             "owner": "coldhakca",
             "repo": "tor-relay-bootstrap",
-            "stars": 148,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -663,7 +663,7 @@
             "open_issues": 1,
             "owner": "CMoncur",
             "repo": "tor_box",
-            "stars": 115,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -690,7 +690,7 @@
             "open_issues": 27,
             "owner": "cretz",
             "repo": "bine",
-            "stars": 829,
+            "stars": 826,
             "topics": [
               "go",
               "tor"
@@ -714,7 +714,7 @@
             "open_issues": 1,
             "owner": "dryruby",
             "repo": "tor.rb",
-            "stars": 117,
+            "stars": 115,
             "topics": [
               "ruby",
               "rubygems",
@@ -739,7 +739,7 @@
             "open_issues": 1,
             "owner": "dunglas",
             "repo": "php-torcontrol",
-            "stars": 86,
+            "stars": 84,
             "topics": [
               "php",
               "tor"
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-11-05T03:55:18Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-06T03:52:50Z",
+            "open_issues": 8,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13814,
+            "stars": 13819,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -803,7 +803,7 @@
             "open_issues": 7,
             "owner": "iCepa",
             "repo": "tun2tor",
-            "stars": 104,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -830,7 +830,7 @@
             "open_issues": 2,
             "owner": "Ayms",
             "repo": "node-Tor",
-            "stars": 719,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -851,7 +851,7 @@
             "open_issues": 25,
             "owner": "GaloisInc",
             "repo": "haskell-tor",
-            "stars": 275,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:40:57.107Z",
+    "last_updated": "2026-11-06T22:08:07.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -873,7 +873,7 @@
       "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 519,
+      "stars": 518,
       "topics": [
         "awesome",
         "awesome-list",
