@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5167,
+            "stars": 5172,
             "topics": [
               "algorithm",
               "crawler",
@@ -458,11 +458,11 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T02:02:14Z",
+            "last_commit": "2026-11-08T14:13:08Z",
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2251,
+            "stars": 2252,
             "topics": [
               "archive",
               "har",
@@ -621,7 +621,7 @@
             "open_issues": 38,
             "owner": "torproject",
             "repo": "nyx",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -769,7 +769,7 @@
             "open_issues": 8,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13826,
+            "stars": 13829,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:55:35.918Z",
+    "last_updated": "2026-11-08T21:12:42.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -873,7 +873,7 @@
       "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 518,
+      "stars": 519,
       "topics": [
         "awesome",
         "awesome-list",
