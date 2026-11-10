@@ -81,7 +81,7 @@
             "open_issues": 12,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5179,
+            "stars": 5181,
             "topics": [
               "algorithm",
               "crawler",
@@ -218,10 +218,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-06T17:52:35Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -336,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1036,
+            "stars": 1037,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-11-09T03:52:52Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-10T03:53:08Z",
+            "open_issues": 10,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13833,
+            "stars": 13838,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -830,7 +830,7 @@
             "open_issues": 2,
             "owner": "Ayms",
             "repo": "node-Tor",
-            "stars": 718,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:42:35.825Z",
+    "last_updated": "2026-11-10T22:23:29.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
