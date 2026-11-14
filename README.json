@@ -81,7 +81,7 @@
             "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5198,
+            "stars": 5201,
             "topics": [
               "algorithm",
               "crawler",
@@ -769,7 +769,7 @@
             "open_issues": 6,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13849,
+            "stars": 13850,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:40:34.707Z",
+    "last_updated": "2026-11-14T21:31:53.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
