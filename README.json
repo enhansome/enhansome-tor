@@ -81,7 +81,7 @@
             "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5201,
+            "stars": 5207,
             "topics": [
               "algorithm",
               "crawler",
@@ -221,7 +221,7 @@
             "open_issues": 39,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 299,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -238,7 +238,7 @@
             "id": 271982515,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T20:26:39Z",
+            "last_commit": "2026-11-15T17:03:42Z",
             "open_issues": 13,
             "owner": "wabarc",
             "repo": "archive.is",
@@ -458,11 +458,11 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T04:23:44Z",
+            "last_commit": "2026-11-14T23:22:07Z",
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2254,
+            "stars": 2255,
             "topics": [
               "archive",
               "har",
@@ -769,7 +769,7 @@
             "open_issues": 6,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13850,
+            "stars": 13852,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:31:53.444Z",
+    "last_updated": "2026-11-15T21:51:12.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -873,7 +873,7 @@
       "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 519,
+      "stars": 521,
       "topics": [
         "awesome",
         "awesome-list",
