@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,207 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,211 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 9 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -79,7 +79,7 @@
 
 * [multitor](https://github.com/trimstray/multitor) ⭐ 1,198 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
 * [Tor Controller (for Kubernetes)](https://github.com/kragniz/tor-controller) ⭐ 532 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Expose applications deployed in Kubernetes clusters via Tor Onion services.
-* [OONI Probe CLI](https://github.com/ooni/probe-cli) ⭐ 300 | 🐛 39 | 🌐 Go | 📅 2026-11-06 - Command-line client for running OONI network measurement tests.
+* [OONI Probe CLI](https://github.com/ooni/probe-cli) ⭐ 301 | 🐛 38 | 🌐 Go | 📅 2026-11-16 - Command-line client for running OONI network measurement tests.
 * [archive.is](https://github.com/wabarc/archive.is) ⭐ 52 | 🐛 13 | 🌐 Go | 📅 2026-11-15 - A CLI tool that easy to access archive.today's Tor Hidden Services.
 * [GetTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-gettor) - E-mail autoresponder providing Tor's packages over SMTP. This has been relatively unchanged for quite a while.
 * [OONI Probe](https://www.torproject.org/getinvolved/volunteer.html.en#project-ooni) - Censorship scanner, checking your local connection for blocked or modified content.
@@ -115,7 +115,7 @@
 * [wayback](https://github.com/wabarc/wayback) ⭐ 2,255 | 🐛 65 | 🌐 Go | 📅 2026-11-14 - Hosting Tor Hidden Services as portal to using Wayback Machine.
 * [Enterprise Onion Toolkit](https://github.com/alecmuffett/eotk) ⭐ 784 | 🐛 20 | 🌐 Awk | 📅 2024-02-09 - Tool for assisting in large-scale deployments of HTTP(S) Onion sites as an official Onionspace presence for existing clearnet websites.
 * [OnionBalance](https://github.com/DonnchaC/onionbalance) ⚠️ Archived - Load-balancing and redundancy for Tor hidden services.
-* [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 245 | 🐛 30 | 🌐 Python | 📅 2024-07-06 - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+* [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 244 | 🐛 31 | 🌐 Python | 📅 2024-07-06 - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 * [Stormy](https://github.com/glamrock/stormy) ⭐ 39 | 🐛 5 | 🌐 Python | 📅 2015-06-03 - Easy creation of Tor Onion services ("Location-Hidden Services"), currently under heavy development.
 * [goldy/tor-hidden-service](https://hub.docker.com/r/goldy/tor-hidden-service) - Docker container capable of providing multiple simultaneous Onion services in either Version 2 or Version 3 format, along with added support for Vanguards.
 * [Onion Services documentation](https://community.torproject.org/onion-services/) - Official guides for deploying, configuring, and operating Onion services.
@@ -159,7 +159,7 @@
 
 # Tunneling tools
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,852 | 🐛 6 | 🌐 Go | 📅 2026-11-12 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,854 | 🐛 3 | 🌐 Go | 📅 2026-11-16 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 * [tun2tor](https://github.com/iCepa/tun2tor) ⭐ 103 | 🐛 7 | 🌐 Rust | 📅 2021-11-14 - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 * [tor\_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server.
 * [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
@@ -191,4 +191,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
