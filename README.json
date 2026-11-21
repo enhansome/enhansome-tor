@@ -81,7 +81,7 @@
             "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5217,
+            "stars": 5221,
             "topics": [
               "algorithm",
               "crawler",
@@ -217,11 +217,11 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T06:28:32Z",
-            "open_issues": 39,
+            "last_commit": "2026-11-21T05:29:35Z",
+            "open_issues": 38,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -462,7 +462,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2257,
+            "stars": 2258,
             "topics": [
               "archive",
               "har",
@@ -769,7 +769,7 @@
             "open_issues": 4,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13866,
+            "stars": 13870,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -858,10 +858,86 @@
         }
       ],
       "title": "Tor protocol implementations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecureDrop",
+          "description": "Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!",
+            "homepage": "https://securedrop.org/",
+            "id": 3156820,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-19T19:03:40Z",
+            "open_issues": 482,
+            "owner": "freedomofpress",
+            "repo": "securedrop",
+            "stars": 3896,
+            "topics": [
+              "flask-application",
+              "hacktoberfest",
+              "journalism",
+              "python",
+              "securedrop",
+              "whistleblowing"
+            ]
+          },
+          "first_seen": "2026-11-21T22:11:33.050Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenWhistle",
+          "description": "Self-hosted internal reporting channel for the EU Whistleblowing Directive and Germany's HinSchG, with an optional onion service and no stored IP addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open source whistleblowing software (Hinweisgebersystem) for EU Directive 2019/1937 and the German HinSchG: self-hosted, anonymous, Docker.",
+            "homepage": "https://openwhistle.net",
+            "id": 831684951,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-21T22:03:33Z",
+            "open_issues": 10,
+            "owner": "openwhistle",
+            "repo": "OpenWhistle",
+            "stars": 11,
+            "topics": [
+              "anonymity",
+              "compliance",
+              "docker",
+              "eu-whistleblowing-directive",
+              "fastapi",
+              "gdpr",
+              "hinschg",
+              "hinweisgeberschutzgesetz",
+              "hinweisgebersystem",
+              "open-source",
+              "postgresql",
+              "privacy",
+              "python",
+              "redis",
+              "security",
+              "self-hosted",
+              "tor",
+              "whistleblower",
+              "whistleblowing",
+              "whistleblowing-software"
+            ]
+          },
+          "first_seen": "2026-11-21T22:11:33.050Z"
+        }
+      ],
+      "title": "Whistleblowing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:06:31.696Z",
+    "last_updated": "2026-11-21T22:11:33.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -869,7 +945,7 @@
       "id": 46509461,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-29T00:31:10Z",
+      "last_commit": "2026-11-21T01:05:32Z",
       "open_issues": 1,
       "owner": "ajvb",
       "repo": "awesome-tor",
@@ -881,7 +957,7 @@
         "tor"
       ]
     },
-    "original_repository_sha": "4bf444386e36ab166b32f73c0a0a2e6b3d718a8e",
+    "original_repository_sha": "1ac303788bed1c5af3c39688bdb891ca02e5f493",
     "enhanced_repository": "enhansome/enhansome-tor",
     "enhanced_repository_description": null,
     "title": "Awesome Tor with stars"
