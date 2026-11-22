@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,221 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,225 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 9 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -112,7 +112,7 @@
 
 # Onion service tools
 
-* [wayback](https://github.com/wabarc/wayback) ⭐ 2,258 | 🐛 65 | 🌐 Go | 📅 2026-11-14 - Hosting Tor Hidden Services as portal to using Wayback Machine.
+* [wayback](https://github.com/wabarc/wayback) ⭐ 2,259 | 🐛 65 | 🌐 Go | 📅 2026-11-14 - Hosting Tor Hidden Services as portal to using Wayback Machine.
 * [Enterprise Onion Toolkit](https://github.com/alecmuffett/eotk) ⭐ 784 | 🐛 20 | 🌐 Awk | 📅 2024-02-09 - Tool for assisting in large-scale deployments of HTTP(S) Onion sites as an official Onionspace presence for existing clearnet websites.
 * [OnionBalance](https://github.com/DonnchaC/onionbalance) ⚠️ Archived - Load-balancing and redundancy for Tor hidden services.
 * [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 243 | 🐛 13 | 🌐 Python | 📅 2026-11-18 - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
@@ -159,7 +159,7 @@
 
 # Tunneling tools
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,870 | 🐛 4 | 🌐 Go | 📅 2026-11-20 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,874 | 🐛 4 | 🌐 Go | 📅 2026-11-22 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 * [tun2tor](https://github.com/iCepa/tun2tor) ⭐ 103 | 🐛 7 | 🌐 Rust | 📅 2021-11-14 - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 * [tor\_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server.
 * [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
@@ -181,7 +181,7 @@
 # Whistleblowing
 
 * [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,896 | 🐛 482 | 🌐 Python | 📅 2026-11-19 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
-* [OpenWhistle](https://github.com/openwhistle/OpenWhistle) ⭐ 11 | 🐛 10 | 🌐 Python | 📅 2026-11-21 - Self-hosted internal reporting channel for the EU Whistleblowing Directive and Germany's HinSchG, with an optional onion service and no stored IP addresses.
+* [OpenWhistle](https://github.com/openwhistle/OpenWhistle) ⭐ 11 | 🐛 10 | 🌐 Python | 📅 2026-11-22 - Self-hosted internal reporting channel for the EU Whistleblowing Directive and Germany's HinSchG, with an optional onion service and no stored IP addresses.
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
 
 # License
@@ -192,4 +192,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
