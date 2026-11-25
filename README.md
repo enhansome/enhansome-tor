@@ -59,7 +59,7 @@
 
 # Development and research tools
 
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,226 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 5,231 | 🐛 7 | 🌐 Python | 📅 2026-11-12 - Python web crawler for Dark and Deep Web. Actively maintained and can be used in Docker container (dockerfile provided).
 * [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 9 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up GitHub Actions workflow with a specific version of Tor.
 * [Chutney](https://www.torproject.org/getinvolved/volunteer.html.en#project-chutney) - Integration test suite that spawns a local tor network, checking the interactions of its components.
 * [Compass](https://www.torproject.org/getinvolved/volunteer.html.en#project-compass) - Web and command line application that filters and aggregates the Tor relays based on various attributes.
@@ -79,7 +79,7 @@
 
 * [multitor](https://github.com/trimstray/multitor) ⭐ 1,200 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Shell scripts to automate creation of multiple Tor instances, load-balanced with HAProxy.
 * [Tor Controller (for Kubernetes)](https://github.com/kragniz/tor-controller) ⭐ 532 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Expose applications deployed in Kubernetes clusters via Tor Onion services.
-* [OONI Probe CLI](https://github.com/ooni/probe-cli) ⭐ 301 | 🐛 41 | 🌐 Go | 📅 2026-11-23 - Command-line client for running OONI network measurement tests.
+* [OONI Probe CLI](https://github.com/ooni/probe-cli) ⭐ 301 | 🐛 40 | 🌐 Go | 📅 2026-11-24 - Command-line client for running OONI network measurement tests.
 * [archive.is](https://github.com/wabarc/archive.is) ⭐ 52 | 🐛 14 | 🌐 Go | 📅 2026-11-23 - A CLI tool that easy to access archive.today's Tor Hidden Services.
 * [GetTor](https://www.torproject.org/getinvolved/volunteer.html.en#project-gettor) - E-mail autoresponder providing Tor's packages over SMTP. This has been relatively unchanged for quite a while.
 * [OONI Probe](https://www.torproject.org/getinvolved/volunteer.html.en#project-ooni) - Censorship scanner, checking your local connection for blocked or modified content.
@@ -159,7 +159,7 @@
 
 # Tunneling tools
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,874 | 🐛 6 | 🌐 Go | 📅 2026-11-23 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,879 | 🐛 10 | 🌐 Go | 📅 2026-11-24 - DNS proxy server supporting arbitrary DNS, DNSCrypt v2, DNS-over-TLS, and DNS-over-HTTPS queries that can be torified with a two-line configuration change (`force_tcp = true` and `proxy = socks5://127.0.0.1:9050` or similar).
 * [tun2tor](https://github.com/iCepa/tun2tor) ⭐ 103 | 🐛 7 | 🌐 Rust | 📅 2021-11-14 - Rust library to provide a virtual `utun` (userspace tunnel) interface to Tor.
 * [tor\_ssh.sh](https://gitlab.com/grownetics/devops/blob/master/tor_ssh.sh) - One command to enable SSH access via Tor to any server.
 * [Torsocks](https://www.torproject.org/getinvolved/volunteer.html.en#project-torsocks) - Utility for adapting other applications to work with Tor.
@@ -180,8 +180,8 @@
 
 # Whistleblowing
 
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,897 | 🐛 481 | 🌐 Python | 📅 2026-11-23 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
-* [OpenWhistle](https://github.com/openwhistle/OpenWhistle) ⭐ 11 | 🐛 10 | 🌐 Python | 📅 2026-11-23 - Self-hosted internal reporting channel for the EU Whistleblowing Directive and Germany's HinSchG, with an optional onion service and no stored IP addresses.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,897 | 🐛 479 | 🌐 Python | 📅 2026-11-24 - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+* [OpenWhistle](https://github.com/openwhistle/OpenWhistle) ⭐ 11 | 🐛 10 | 🌐 Python | 📅 2026-11-24 - Self-hosted internal reporting channel for the EU Whistleblowing Directive and Germany's HinSchG, with an optional onion service and no stored IP addresses.
 * [GlobaLeaks](https://www.globaleaks.org/) - Free software intended to enable secure and anonymous whistleblowing initiatives.
 
 # License
@@ -192,4 +192,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
