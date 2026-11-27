@@ -81,7 +81,7 @@
             "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5239,
+            "stars": 5243,
             "topics": [
               "algorithm",
               "crawler",
@@ -155,7 +155,7 @@
             "open_issues": 23,
             "owner": "trimstray",
             "repo": "multitor",
-            "stars": 1200,
+            "stars": 1199,
             "topics": [
               "balance",
               "circuit",
@@ -217,11 +217,11 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T14:36:53Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-26T17:15:40Z",
+            "open_issues": 41,
             "owner": "ooni",
             "repo": "probe-cli",
-            "stars": 301,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-09-23T20:25:45.265Z"
@@ -458,7 +458,7 @@
             "id": 271984275,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T21:57:16Z",
+            "last_commit": "2026-11-26T08:29:16Z",
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
@@ -663,7 +663,7 @@
             "open_issues": 1,
             "owner": "CMoncur",
             "repo": "tor_box",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:58.821Z"
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-11-25T03:52:50Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-26T15:22:39Z",
+            "open_issues": 13,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13883,
+            "stars": 13886,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -902,7 +902,7 @@
             "id": 831684951,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T04:56:23Z",
+            "last_commit": "2026-11-26T05:04:01Z",
             "open_issues": 10,
             "owner": "openwhistle",
             "repo": "OpenWhistle",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:59:52.893Z",
+    "last_updated": "2026-11-27T01:01:35.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
