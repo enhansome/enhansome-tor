@@ -81,7 +81,7 @@
             "open_issues": 7,
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 5243,
+            "stars": 5248,
             "topics": [
               "algorithm",
               "crawler",
@@ -217,8 +217,8 @@
             "id": 120651415,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T17:15:40Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-27T08:14:23Z",
+            "open_issues": 40,
             "owner": "ooni",
             "repo": "probe-cli",
             "stars": 303,
@@ -336,7 +336,7 @@
             "open_issues": 14,
             "owner": "luantak",
             "repo": "ToRat",
-            "stars": 1037,
+            "stars": 1036,
             "topics": [
               "command-and-control",
               "cross-platform",
@@ -462,7 +462,7 @@
             "open_issues": 65,
             "owner": "wabarc",
             "repo": "wayback",
-            "stars": 2259,
+            "stars": 2262,
             "topics": [
               "archive",
               "har",
@@ -765,11 +765,11 @@
             "id": 116739828,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-11-26T15:22:39Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-27T03:52:53Z",
+            "open_issues": 14,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 13886,
+            "stars": 13890,
             "topics": [
               "anonymized",
               "anonymized-dns",
@@ -878,7 +878,7 @@
             "open_issues": 478,
             "owner": "freedomofpress",
             "repo": "securedrop",
-            "stars": 3897,
+            "stars": 3898,
             "topics": [
               "flask-application",
               "hacktoberfest",
@@ -902,7 +902,7 @@
             "id": 831684951,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T05:04:01Z",
+            "last_commit": "2026-11-27T06:53:15Z",
             "open_issues": 10,
             "owner": "openwhistle",
             "repo": "OpenWhistle",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:01:35.971Z",
+    "last_updated": "2026-11-28T00:32:32.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Tor related projects, articles, papers, etc",
@@ -949,7 +949,7 @@
       "open_issues": 2,
       "owner": "ajvb",
       "repo": "awesome-tor",
-      "stars": 523,
+      "stars": 522,
       "topics": [
         "awesome",
         "awesome-list",
